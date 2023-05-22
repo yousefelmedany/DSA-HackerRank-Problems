@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"evaluator","l":"Evaluator"},{"p":"evaluator","l":"MyStack"},{"p":"evaluator","l":"MyStack.node"}];updateSearchResults();
